@@ -1,6 +1,6 @@
 ### eae! Prazer, Maicxn
-- ☯️ Sou estudante da Etec Albert Einstein
-- 📚 Estagiário React, React Native, SQL e C#
+- ☯️ Técnico em Desenvolvimento de Sistemas
+- 📚 Estagiário React, Native e C#
   
   ##
   
