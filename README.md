@@ -1,6 +1,6 @@
 ### eae! Prazer, Maicxn
 - ☯️ Técnico em Desenvolvimento de Sistemas
-- 📚 Estagiário Desenvolvedor em React, Native e C#
+- 📚 Estagiário Desenvolvedor Front End em React e React Native
   
 ##
 
