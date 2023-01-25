@@ -2,9 +2,18 @@
 
 ### Hi there, I'm Maicon Oliveira! 👋
 
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<div>
+  <img src="https://img.shields.io/badge/react%20-FFFFFF.svg?&style=for-the-badge&logo=react&logoColor=black" height="20"/>
+  <img src="https://img.shields.io/badge/typescript%20-FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=black" height="20"/>
+  <img src="https://img.shields.io/badge/javascript-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="20"/>
+  <img src="https://img.shields.io/badge/node.js%20-FFFFFF.svg?&style=for-the-badge&logo=node.js&logoColor=black" height="20"/>
+</div>
+
+![React](https://img.shields.io/badge/react%20-FFFFFF.svg?&style=for-the-badge&logo=react&logoColor=black)
+![Typescript](https://img.shields.io/badge/typescript%20-FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/node.js%20-FFFFFF.svg?&style=for-the-badge&logo=node.js&logoColor=black)
+
 
 ## About me:
 - 💻 Software developer.
