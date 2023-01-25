@@ -7,11 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Node](https://img.shields.io/badge/node.js%20-FFFFFF.svg?&style=for-the-badge&logo=node.js&logoColor=black)
 
-
-## About me:
-- 💻 Software developer.
-
-[MyPortfolio](https://maiconoliveira.vercel.app)
 ## About me:
 - 💻 Software developer.
 
