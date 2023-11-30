@@ -10,7 +10,7 @@
 ## About me:
 - 💻 Software developer.
 
-Hi, I'm Maicon Oliveira,  I'm 18 years old and I'm a Front End developer. 
+Hi, I'm Maicon Oliveira,  I'm 19 years old and I'm a Front End developer. 
 
 [Portfólio](https://maiconoliveira.vercel.app)
 
